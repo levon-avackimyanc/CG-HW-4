@@ -4,6 +4,6 @@
 Используется в области обработки изображений, в частности, часто применяется в алгоритмах выделения границ.
 # Результат работы программы
 ## До обработки фильтра:
-![alt text](https://github.com/levon-avackimyanc/CG-HW-4/blob/master/sova.jpeg)
+![alt text](https://github.com/levon-avackimyanc/CG-HW-4/blob/wp/lab/sova.jpeg)
 ## После:
-![alt text](https://github.com/levon-avackimyanc/CG-HW-4/blob/master/results.png)
+![alt text](https://github.com/levon-avackimyanc/CG-HW-4/blob/wp/lab/results.png)
